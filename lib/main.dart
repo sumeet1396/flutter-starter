@@ -11,6 +11,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       home: Scaffold(
+        backgroundColor: Color.fromARGB(255, 167, 191, 211),
         body: Center(
           child: Text('Hello World! welcome to flutter'),
         ),
