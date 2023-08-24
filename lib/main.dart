@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Color.fromARGB(255, 167, 191, 211),
         body: Center(
-          child: Text('Hello World! welcome to flutter'),
+          child: Text('Hello World! welcome to flutter: by sumeet rane'),
         ),
       ),
     );
